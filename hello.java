@@ -1,4 +1,4 @@
-// Hello world
+g// Hello world
 public class hello {
  
            //the main method
